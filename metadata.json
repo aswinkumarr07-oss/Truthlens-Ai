@@ -1,0 +1,9 @@
+{
+  "name": "TruthLens AI",
+  "description": "Universal Media Authenticity & Deepfake Detection Platform. Advanced AI-driven forensic analysis to verify images and videos.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": []
+}
